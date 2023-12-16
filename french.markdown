@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "NGUYEN Phuc Viet Khoa"
+title: "French"
 permalink: /Francais
 ---
