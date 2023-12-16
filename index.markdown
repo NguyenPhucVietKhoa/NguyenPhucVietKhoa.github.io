@@ -4,7 +4,6 @@
 
 layout: home
 title: English
-permalink: /English
 ---
 
 This is the base Jekyll theme.
