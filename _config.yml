@@ -53,3 +53,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+header:
+  pages:
+    - name: French
+      link: /Francais
+
+footer:
+  contact:
+    - name: email
+      value: ng.phucvietkhoa@gmail.com
+      link: mailto:ng.phucvietkhoa@gmail.com
+    #- name: email
+    #  value: morgane.steins@cea.fr
+    #  link: "mailto:morgane.steins@cea.fr"
+    - name: tel
+      value: "(+33) 7 64 74 57 03"
+  follow:
+    #- name: GitHub
+    #  link: http://github.com/MorganeSteins
+
+    #- name: ResearchGate
+    #  value: RG
+    #  link: https://www.researchgate.net/profile/Morgane_Steins
+
+    - name: linkedIn
+      value: LinkedIn
+      link: https://www.linkedin.com/in/pvknguyen
+    
+    #- name: orcid
+    #  value: OrcID
+    #  link: https://orcid.org/0000-0002-3938-5265

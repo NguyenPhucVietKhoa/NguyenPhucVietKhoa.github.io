@@ -1,5 +1,5 @@
 ---
 layout: home
 title: "French"
-permalink: /Francais
+permalink: :/Francais
 ---
