@@ -30,7 +30,7 @@ url: "https://nguyenphucvietkhoa.github.io/" # the base hostname & protocol for 
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-simplex
 plugins:
   - jekyll-feed
 
@@ -53,33 +53,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-header:
-  pages:
-    - name: French
-      link: /Francais
+logo_img: /assets/img/icons/golasblog_logo.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
+copyright: © Golasowski 2020 #Your copyright.
 
-footer:
-  contact:
-    - name: email
-      value: ng.phucvietkhoa@gmail.com
-      link: mailto:ng.phucvietkhoa@gmail.com
-    #- name: email
-    #  value: morgane.steins@cea.fr
-    #  link: "mailto:morgane.steins@cea.fr"
-    - name: tel
-      value: "(+33) 7 64 74 57 03"
-  follow:
-    #- name: GitHub
-    #  link: http://github.com/MorganeSteins
+collections:
+    category:
+        output: true
+    authors:
+        output: false
 
-    #- name: ResearchGate
-    #  value: RG
-    #  link: https://www.researchgate.net/profile/Morgane_Steins
-
-    - name: linkedIn
-      value: LinkedIn
-      link: https://www.linkedin.com/in/pvknguyen
-    
-    #- name: orcid
-    #  value: OrcID
-    #  link: https://orcid.org/0000-0002-3938-5265
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
