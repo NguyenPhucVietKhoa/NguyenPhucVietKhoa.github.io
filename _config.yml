@@ -1,9 +1,9 @@
 # site settings
 
 title: NGUYEN Phuc Viet Khoa
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+description: Welcome to my portfolio.
+taglong: Welcome to my portfolio.
+tagshort: Portfolio
 url: https://nguyenphucvietkhoa.github.io/
 baseurl: ""
 permalink: /:title/
