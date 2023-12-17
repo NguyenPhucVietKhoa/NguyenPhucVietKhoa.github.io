@@ -11,7 +11,7 @@ title: CV
 
 ## WORK EXPERIENCE
 
-### ONERA - The French Aerospace Lab
+### **ONERA - The French Aerospace Lab**
 
 PhD Student
 
