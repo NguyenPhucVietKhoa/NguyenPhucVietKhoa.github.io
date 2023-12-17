@@ -47,7 +47,7 @@ Blois, Centre Val de Loire, France. Sep 2020 - Sep 2023
 * **Courses**: Numerical analysis, Finite elements, Fluid mechanics, Continuum mechanics, Fatigue and fracture mechanics, Polymeric and com‑
 posite materials, Robust optimization, Object‑oriented programming C++, Vibrations and acoustics.
 
-### **INSA Centre Val de Loire (Speciality approved by Polytech Orléans, Polytech Tours et INSA)**
+### **INSA Centre Val de Loire (Speciality approved by Polytech Orléans, Polytech Tours and INSA Cvl)**
 
 Master 2 of Mechanics (Double degree)
 
