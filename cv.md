@@ -7,6 +7,10 @@ title: CV
 
 {% include contact.html %}
 
+&nbsp;
+
+***
+
 ## WORK EXPERIENCE
 
 ### **STMicroelectronics**
@@ -28,6 +32,10 @@ Romorantin‑Lanthenay, Centre Val de Loire, France
 * **Subject**: Study the numerical characterization of a cold plate type heat exchanger.
 
 **Keywords**: Finite Element Analysis (FEA), Thermal Management, Fluid Mechanical, Design of Experiments (DOE), Dimensional Modeling, ANSYS.
+
+&nbsp;
+
+***
 
 ## EDUCATION
 
