@@ -2,7 +2,7 @@
 layout: cv
 title: CV
 ---
-[Pdf Version]([https://link-url-here.org](https://github.com/NguyenPhucVietKhoa/NguyenPhucVietKhoa.github.io/edit/master/cv.pdf))
+[Pdf Version]([[https://link-url-here.org](https://github.com/NguyenPhucVietKhoa/NguyenPhucVietKhoa.github.io/edit/master/cv.pdf)])
 
 {% include contact.html %}
 
