@@ -46,7 +46,7 @@ Romorantin‑Lanthenay, Centre Val de Loire, France. Apr 2022 - Jul 2022
 
 ### **Polytechnic University of Hauts-de-France (UPHF)**
 
-Doctor of Philosophy - PhD, Computational Mechanics
+Doctor of Philosophy - PhD
 
 Valenciennes, Hauts-de-France, France. 2023 - Present
 
