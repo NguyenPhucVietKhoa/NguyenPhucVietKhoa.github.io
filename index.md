@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# About
+## About
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -15,4 +15,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
+/**
 {% include archive.html %}
+ */
