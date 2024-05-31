@@ -15,6 +15,6 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## Communications
 
-**2024** - *Journée des Doctorants de l'ONERA*: Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures (Résume, Poster)
+* **2024** - Journée des Doctorants de l'ONERA: Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures (Résume, Poster)
 
 <!-- {% include archive.html %} -->
