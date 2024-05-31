@@ -13,5 +13,8 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 [Click here](/cv) to see the full CV, and [here](/CV_English.pdf) to download a print version.
 
+## Communications
 
-{% include archive.html %}
+**2024** Journée des Doctorants de l'ONERA: Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures (Résume, Poster)
+
+<!-- {% include archive.html %} -->
