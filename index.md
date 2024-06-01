@@ -15,8 +15,7 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## Publications and preprints
 
-* [Numerical strategies for the prediction of patterned wafer warpage during manufacturing process](https://ieeexplore.ieee.org/document/10491558), F. Roqueta, M. Boutaleb, P. V. K. Nguyen and J. -M. Mencik, Conference paper, *25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), Catania, Italy, 2024*, doi: <ins>10.1109/EuroSimE60745.2024.10491558</ins>.
-* , "Numerical strategies for the prediction of patterned wafer warpage during manufacturing process," 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), Catania, Italy, 2024, pp. 1-6, doi: 10.1109/EuroSimE60745.2024.10491558
+* [Numerical strategies for the prediction of patterned wafer warpage during manufacturing process](https://ieeexplore.ieee.org/document/10491558), F. Roqueta, M. Boutaleb, P. V. K. Nguyen and J. -M. Mencik, Conference paper, *25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), Catania, Italy, 2024*.
 
 ## Communications
 
