@@ -19,7 +19,7 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## Communications
 
-* **2024, Online, France** - [*Congrès des Jeunes Chercheurs en Mécanique - MECA-J 2024*](https://mecaj2024.sciencesconf.org/): Méthodes numériques multi-échelles pour la modélisation de la plaque perforée dans les calculs de structures
+* **2024, Online, France** - [*Congrès des Jeunes Chercheurs en Mécanique - MECA-J 2024*](https://mecaj2024.sciencesconf.org/): Méthodes numériques multi-échelles pour la modélisation de la plaque perforée dans les calculs de structures ([Résume](/PDF/MECA_J_resume_NGUYEN_Phuc_Viet_Khoa.pdf))
 
 * **2024, Toulouse, France** - [*Journée des Doctorants de l'ONERA*](https://www.onera.fr/fr/journees-des-doctorants): Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures ([Résume](/PDF/JDD_2024/Resume_NGUYEN_Phuc_Viet_Khoa_1A.pdf), [Présentation](/PDF/JDD_2024/Presentation_NGUYEN_Phuc_Viet_Khoa_1A.pdf), [Poster](/PDF/JDD_2024/Poster_NGUYEN_Phuc_Viet_Khoa_1A.pdf))
 
