@@ -19,6 +19,8 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## Communications
 
+* **2025, Metz, France** - [*26e Congrès Français de Mécanique - CFM2025*](https://cfm2025.sciencesconf.org/?lang=fr): Comparaison des méthodes multi-échelles pour la modélisation de la plaque perforée dans les calculs de structures
+
 * **2025, Champs-sur-Marne, France** - [*Computational Modeling of Complex Materials Across the scales - CMCS 2025*](https://cmcs2025.sciencesconf.org/?lang=en): Comparison of multi-scale methods for modeling perforated plate in computational structural mechanics ([Abstract](/PDF/CMCS_2025/cmcs_poster_NGUYEN_Phuc_Viet_Khoa.pdf), [Poster](/PDF/CMCS_2025/Poster_CMCS25_Khoa.pdf))
 
 * **2025, Palaiseau, France** - [*Journée des Doctorants de l'ONERA*](https://www.onera.fr/fr/journees-des-doctorants): Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures ([Résume](/PDF/JDD_2025/Resume_NGUYEN_Phuc_Viet_Khoa_2A.pdf), [Présentation](/PDF/JDD_2025/Presentation_NGUYEN_Phuc_Viet_Khoa_2A.pdf))
