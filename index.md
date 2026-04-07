@@ -15,10 +15,9 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## Publications and preprints
 
-* [A Hybrid-Displacement POD-based finite element formulation: Application to a linear elastic perforated plate](https://www.sciencedirect.com/science/article/pii/S0168874X26000429) P. V. K. Nguyen, F. Massa, C. Hubert, B. Langrand, and N. Leconte, *Finite Elements in Analysis and Design, vol. 257, p. 104552, May 2026*, doi: 10.1016/j.finel.2026.104552.
+* P. V. K. Nguyen, F. Massa, C. Hubert, B. Langrand, and N. Leconte, "[A Hybrid-Displacement POD-based finite element formulation: Application to a linear elastic perforated plate](https://www.sciencedirect.com/science/article/pii/S0168874X26000429)", Finite Elements in Analysis and Design, vol. 257, p. 104552, May 2026, doi: *10.1016/j.finel.2026.104552*.
 
-
-* [Numerical strategies for the prediction of patterned wafer warpage during manufacturing process](https://ieeexplore.ieee.org/document/10491558), F. Roqueta, M. Boutaleb, P. V. K. Nguyen and J. -M. Mencik, Conference paper, *25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), Catania, Italy, 2024*.
+* F. Roqueta, M. Boutaleb, P. V. K. Nguyen and J. -M. Mencik, "[Numerical strategies for the prediction of patterned wafer warpage during manufacturing process](https://ieeexplore.ieee.org/document/10491558)", 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), Catania, Italy, 2024, pp. 1-6, doi: *10.1109/EuroSimE60745.2024.10491558*.
 
 ## Communications
 
