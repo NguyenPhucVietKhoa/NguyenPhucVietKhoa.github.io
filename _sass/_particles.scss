@@ -49,6 +49,26 @@
   font-weight: 400;
 }
 
+
+.hero-links {
+  margin: 2rem 0 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.hero-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.hero-links a:hover {
+  text-decoration: underline;
+}
+
 .nowrap {
   white-space: nowrap;
 }
