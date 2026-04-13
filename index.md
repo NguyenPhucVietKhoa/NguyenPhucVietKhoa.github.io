@@ -31,4 +31,18 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 * **2024, Toulouse, France** - [*Journée des Doctorants de l'ONERA*](https://www.onera.fr/fr/journees-des-doctorants): Super-élément fini perforé non-linéaire pour la modélisation des assemblages dans les calculs de structures ([Résume](/PDF/JDD_2024/Resume_NGUYEN_Phuc_Viet_Khoa_1A.pdf), [Présentation](/PDF/JDD_2024/Presentation_NGUYEN_Phuc_Viet_Khoa_1A.pdf), [Poster](/PDF/JDD_2024/Poster_NGUYEN_Phuc_Viet_Khoa_1A.pdf))
 
+## test
+
+**Apprentice Data Scientist** *(Oct 2021 – Sep 2022)*   *CLS Group, Ramonville*
+
+{{% columns [ratio="1:2"] %}}
+
+* klklmfklmd
+
+* * Developed tools to visualize trajectory data for non-specialists  
+  * Used an LSTM autoencoder to encode variable-length animal trajectories  
+  * Applied clustering techniques in latent space to group similar movements  
+
+{{% /columns %}}
+
 <!-- {% include archive.html %} -->
