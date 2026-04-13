@@ -33,17 +33,11 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 ## test
 
-**Apprentice Data Scientist** *(Oct 2021 – Sep 2022)*   *CLS Group, Ramonville*
+**Apprentice Data Scientist** *(Oct 2021 – Sep 2022)*  
+*CLS Group, Ramonville*
 
-{{% columns [ratio="1:1"] [class="align-center"] %}}
-- ### Left Content
-  Lorem markdownum insigne...
-
-- ### Mid Content
-  Lorem markdownum insigne...
-
-- ### Right Content
-  Lorem markdownum insigne...
-{{% /columns %}}
+|      |                                                                                                                                                                                                                                    |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| khoa | - Developed tools to visualize trajectory data for non-specialists - Used an LSTM autoencoder to encode variable-length animal trajectories into fixed-length latent codes<br/>- Applied clustering techniques in the latent space to group similar movements |
 
 <!-- {% include archive.html %} -->
