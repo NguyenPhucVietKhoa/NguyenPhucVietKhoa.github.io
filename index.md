@@ -37,9 +37,9 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 {{% columns [ratio="1:2"] %}}
 
-* ### klklmfklmd
+- ### klklmfklmd
 
-* ### Developed tools to visualize trajectory data for non-specialists  
+- ### Developed tools to visualize trajectory data for non-specialists  
   * Used an LSTM autoencoder to encode variable-length animal trajectories  
   * Applied clustering techniques in latent space to group similar movements  
 
